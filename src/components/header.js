@@ -6,7 +6,7 @@ export default function Header() {
     <div className="flex justify-between items-center px-20 py-5 bg-white  border-b">
       <div>
         <Link to="/">
-          <img src="/img/logo.png" />
+          <img src="https://res.cloudinary.com/dtme6qv4c/image/upload/v1666158466/NxtWave_TM_Coloured_logo_1.png" />
         </Link>
       </div>
       <div className="flex gap-x-3">
@@ -15,7 +15,10 @@ export default function Header() {
             <button>ADD</button>
           </Link>
         </div>
-        <img className=" rounded-full" src="/img/image.png" />
+        <img
+          className=" rounded-full"
+          src="https://res.cloudinary.com/dtme6qv4c/image/upload/v1666158515/image.png"
+        />
       </div>
     </div>
   );

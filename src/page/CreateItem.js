@@ -30,7 +30,10 @@ export default function CreateItem() {
             </button>
           </div>
           <div>
-            <img className="w-full  h-2/3" src="/img/image2.png" />
+            <img
+              className="w-full  h-2/3"
+              src="https://res.cloudinary.com/dtme6qv4c/image/upload/v1666158514/image_9.png"
+            />
           </div>
         </div>
       </div>
