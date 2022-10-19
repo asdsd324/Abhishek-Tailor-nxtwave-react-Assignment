@@ -8,11 +8,7 @@ import { BrowserRouter } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <BrowserRouter
-      basename={
-        "https://asdsd324.github.io/abhishek-tailor-nxtwave-react-assignment"
-      }
-    >
+    <BrowserRouter basename={"/abhishek-tailor-nxtwave-react-assignment"}>
       <App />
     </BrowserRouter>
   </React.StrictMode>
