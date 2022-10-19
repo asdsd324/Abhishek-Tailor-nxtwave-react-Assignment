@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abhishek-tailor-nxtwave-react-assignment/static/css/main.4a8007da.css",
+    "main.js": "/abhishek-tailor-nxtwave-react-assignment/static/js/main.8d1d6687.js",
+    "static/js/787.94d9acbe.chunk.js": "/abhishek-tailor-nxtwave-react-assignment/static/js/787.94d9acbe.chunk.js",
+    "index.html": "/abhishek-tailor-nxtwave-react-assignment/index.html",
+    "main.4a8007da.css.map": "/abhishek-tailor-nxtwave-react-assignment/static/css/main.4a8007da.css.map",
+    "main.8d1d6687.js.map": "/abhishek-tailor-nxtwave-react-assignment/static/js/main.8d1d6687.js.map",
+    "787.94d9acbe.chunk.js.map": "/abhishek-tailor-nxtwave-react-assignment/static/js/787.94d9acbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8007da.css",
+    "static/js/main.8d1d6687.js"
+  ]
+}
